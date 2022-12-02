@@ -5,7 +5,7 @@
 * [How to test it](#how-to-test-it)
 
 ## General info
-This project contains implementations of the backpropagation algorithm
+This project contains implementation of the backpropagation algorithm
 	
 ## Technologies
 Project is created with:
